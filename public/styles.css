@@ -1,0 +1,28 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  color:white;
+  background: #b89bde;
+  background-image:url(back.jpg);
+}
+h3{
+  margin-top: 40px;
+}
+h1, h2, h3{
+  text-align: center;
+}
+ul, form{
+  align-self: center;
+  justify-content: flex-start;
+  margin-left: 43%;
+}
+li{
+  list-style: none;
+}
+ul li span span{
+  color: red;
+}
+ul li span{
+  margin-left: 10px;
+}
